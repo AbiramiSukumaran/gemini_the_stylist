@@ -2,10 +2,10 @@
 Like me, are you an AI enthusiast who is tired of the same old hairstyle and looking for a fresh change in a fresh year? Imagine having an AI-powered stylist at your fingertips, ready to recommend the perfect haircut based on your face shape.
 
 # Before I begin: 
-I was bored and needed a haircut. Decided to Gemini my way through the new look. It's essential to note that the opinions, ideas, and examples shared in this blog are entirely my own, shaped by personal interests and experiences. They do not reflect the views of my employer, any other company, or individuals. This experiment is purely driven by my curiosity and passion. The context and image samples provided are intended for educational purposes only and should not be considered within a commercial context. The background context is curated based on my knowledge and gathered information about hairstyles, making responses highly subjective. As a result, this app has not been deployed, emphasizing its experimental nature.
+Opinions, ideas, and examples shared in this blog are entirely my own, shaped by personal interests and experiences. They do not reflect the views of my employer, any other company, or individuals. This experiment is purely driven by my curiosity and passion. The context and image samples provided are intended for educational purposes only and should not be considered within a commercial context. The background context is curated based on my knowledge and gathered information about hairstyles, making responses highly subjective. As a result, this app has not been deployed, emphasizing its experimental nature.
 
 # Introduction
-Like me, are you an AI enthusiast who is tired of the same old hairstyle and looking for a fresh change in a fresh year? Imagine having an AI-powered stylist at your fingertips, ready to recommend the perfect haircut based on your face shape. 
+I was bored and needed a haircut. Decided to Gemini my way through the new look. Like me, are you an AI enthusiast who is tired of the same old hairstyle and looking for a fresh change in a fresh year? Imagine having an AI-powered stylist at your fingertips, ready to recommend the perfect haircut based on your face shape. 
 
 # What are we building?
 A Python program that leverages the power of Gemini Pro Vision and Imagen 2 to generate personalized haircut suggestions. From identifying face shapes to suggesting hairstyles, this cutting-edge approach combines the strengths of text and image generation models. Let's dive into the technical details behind this AI-driven makeover!
