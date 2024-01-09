@@ -1,4 +1,4 @@
-# gemini_the_stylist
+# Gemini, the stylist
 Like me, are you an AI enthusiast who is tired of the same old hairstyle and looking for a fresh change in a fresh year? Imagine having an AI-powered stylist at your fingertips, ready to recommend the perfect haircut based on your face shape.
 
 # Before I begin: 
@@ -18,4 +18,8 @@ I have created a knowledge base pdf as context, based on publicly available arti
 
 # Why Gemini?
 Great question! I like the fact that I am able to send multi-modal input (text, images and more text) as input all in the same request and get the response in a format that I am able to even programmatically control. For instance, JSON. Of the many things I like about Gemini, this one stood out during this experiment.
+
+# Code
+Available in this blog:
+[https://medium.com/@abidsukumaran/gemini-the-stylist-5bf20c808493](url)
 
