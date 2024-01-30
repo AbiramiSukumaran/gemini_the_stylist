@@ -21,5 +21,5 @@ Great question! I like the fact that I am able to send multi-modal input (text, 
 
 # Code
 Available in this blog:
-[https://medium.com/@abidsukumaran/gemini-the-stylist-5bf20c808493](url)
+[https://medium.com/@abidsukumaran/gemini-the-stylist-5bf20c808493](https://github.com/AbiramiSukumaran/gemini_the_stylist/https://medium.com/@abidsukumaran/gemini-the-stylist-5bf20c808493)
 
